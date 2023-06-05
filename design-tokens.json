@@ -858,5 +858,10 @@
     "$type": "color",
     "$value": "3366FF",
     "$description": ""
+  },
+  "Anima Yellow": {
+    "$type": "color",
+    "$value": "F8D57E",
+    "$description": ""
   }
 }
