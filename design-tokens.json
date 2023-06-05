@@ -853,5 +853,10 @@
     "$type": "color",
     "$value": "FF6250",
     "$description": ""
+  },
+  "anima blue": {
+    "$type": "color",
+    "$value": "3366FF",
+    "$description": ""
   }
 }
