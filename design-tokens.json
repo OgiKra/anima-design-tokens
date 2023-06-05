@@ -848,5 +848,10 @@
       "spread": "0px"
     },
     "$description": ""
+  },
+  "Anima red": {
+    "$type": "color",
+    "$value": "FF6250",
+    "$description": ""
   }
 }
